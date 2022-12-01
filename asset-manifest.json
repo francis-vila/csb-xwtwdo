@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://francis-vila.github.io/csb-xwtwdo/static/js/main.551958de.chunk.js",
+    "main.js.map": "https://francis-vila.github.io/csb-xwtwdo/static/js/main.551958de.chunk.js.map",
+    "runtime-main.js": "https://francis-vila.github.io/csb-xwtwdo/static/js/runtime-main.202a79dc.js",
+    "runtime-main.js.map": "https://francis-vila.github.io/csb-xwtwdo/static/js/runtime-main.202a79dc.js.map",
+    "static/js/2.66d0f3cc.chunk.js": "https://francis-vila.github.io/csb-xwtwdo/static/js/2.66d0f3cc.chunk.js",
+    "static/js/2.66d0f3cc.chunk.js.map": "https://francis-vila.github.io/csb-xwtwdo/static/js/2.66d0f3cc.chunk.js.map",
+    "index.html": "https://francis-vila.github.io/csb-xwtwdo/index.html",
+    "static/js/2.66d0f3cc.chunk.js.LICENSE.txt": "https://francis-vila.github.io/csb-xwtwdo/static/js/2.66d0f3cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.202a79dc.js",
+    "static/js/2.66d0f3cc.chunk.js",
+    "static/js/main.551958de.chunk.js"
+  ]
+}
